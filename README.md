@@ -3,7 +3,7 @@
 Tecnologias Utilizadas:
 
 #### Java 17
-* Intellij IDE
+#### Intellij IDE
 
 
 ### Abstração
